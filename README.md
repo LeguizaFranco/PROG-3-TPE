@@ -1,2 +1,5 @@
 # PROG-3-TPE
-Trabajo Práctico Especial para la materia de Programación 3
+Trabajo Práctico Especial - Programación 3 (2026)
+👥 Autores
+Angeles Pedersen
+Franco Leguiza 
