@@ -1,5 +1,11 @@
-# PROG-3-TPE
-Trabajo Práctico Especial - Programación 3 (2026)
-👥 Autores
-Angeles Pedersen
-Franco Leguiza 
+# Trabajo Práctico Especial
+
+## Programación III (2026)
+
+---
+
+### Integrantes
+
+* **Ángeles Pedersen**
+* **Franco Leguiza**
+
